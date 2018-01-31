@@ -1,12 +1,12 @@
 <html>
-<body style="margin: 0; padding: 0;">
- <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="backgroundTable">>
+<body style="margin" border:"0" padding: 0;">
+ <table align="center" border="3" cellpadding="0" cellspacing="0" height="100%" width="100%" id="backgroundTable">>
    <tr>
     <td align="center" valign="top" bgcolor="#EDF1F2">
-     <table border="0" cellpadding="0" cellspacing="0" width="600" id="templatePreheader">
+     <table border="" cellpadding="0" cellspacing="0" width="600" id="templatePreheader">
        <tr>
          <td valign="top" class="preheaderContent">
-          <table border="1" cellpadding="10" cellspacing="0" width="600">
+          <table border="0" cellpadding="10" cellspacing="0" width="600">
            <tr>
             <td valign="top" width="600">
              <div style="max-width:180px; mc:edit="std_preheader_content">
@@ -83,7 +83,7 @@
          <tr>
           <td valign="top" class="footercontent">
            Begin module standard footer
-           <table border="0.5" cellpadding="0" cellspacing="0" width="100%" id="templateFooter">
+           <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateFooter">
             <tr>
              <td valign="top" class="FooterContent">
               <table border="0" cellpadding="50" cellspacing="0" width="1200">

@@ -85,20 +85,19 @@
                <tr>
                 <td align="center" colspan="2" valign="middle" id="social">
                  <div mc:edit="std_social">
-                  &nbsp;<a href="https://twitter.com/ayoasean">Follow Twitter</a> | <a href="https://www.facebook.com/pg/ASEANCommunity">Like Facebook</a> | <a href="https://www.instagram.com/ayoasean/">Follow Instagram</a>&nbsp;
+                  <h4 class="h4"> &nbsp;<a href="https://twitter.com/ayoasean">Follow our Twitter</a> | <a href="https://www.facebook.com/pg/ASEANCommunity">Like our Facebook</a> | <a href="https://www.instagram.com/ayoasean/">Follow our Instagram</a>&nbsp;</h4>
                  </div>
                 </td>
                </tr>
                <tr>
-                <td font size="5" align="center" valign="middle" width="600">
+                <td align="center" valign="middle" width="600">
                  <div mc:edit="std_footer">
-																 <b>Copyright &copy; | 2018 | A.Y.O. All rights reserved.</b>
-																<br/>															Send your quiries to:													<br/>															<strong>info@aseanyouth.net</strong> 
+																  <h6 class="h6">Copyright &copy; | 2018 | A.Y.O.<br/><b>All rights reserved</b></h6>
                </div>
                  </td>
-                  <td valign="middle" width="600" id="otherInformation">
+                  <td align="center" valign="middle" width="600" id="otherInformation">
                    <div mc:edit="OtherInformation">
-                    *OTHER CONTENT IF NEEDED*
+                    <h6 class="h6">If you have any question, email to:<br/><b>info@aseanyouth.net</b></h6>
                    </div>
                   </td>
                  </tr>

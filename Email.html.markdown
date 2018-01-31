@@ -3,7 +3,7 @@
  <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="backgroundTable">>
    <tr>
     <td align="center" valign="top" bgcolor="#EDF1F2">
-     <table border="0,5" cellpadding="0" cellspacing="0" width="600" id="templatePreheader">
+     <table border="0" cellpadding="0" cellspacing="0" width="600" id="templatePreheader">
        <tr>
          <td valign="top" class="preheaderContent">
           <table border="1" cellpadding="10" cellspacing="0" width="600">
@@ -13,9 +13,9 @@
                <img src="https://aseanyouthnet.files.wordpress.com/2018/01/screenshoot-for-email-template-11.png" 
              </div>
             </td>
-              <td valign="top" width="30%">
+              <td valign="middle" width="400" align="center">
              <div mc:edit="std_preheader_links">
-              Email not displaying correctly? <br /><a href="www.aseanyouth.net" target="_blank">View it in your browser</a>.
+              You cannot see this email properly? <br /><a href="www.aseanyouth.net" target="_blank">View it in your browser</a>.
               </div>
 	     </td>
            </tr>

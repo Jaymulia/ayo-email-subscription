@@ -13,13 +13,11 @@
                <img src="https://aseanyouthnet.files.wordpress.com/2018/01/screenshoot-for-email-template-11.png" 
              </div>
             </td>
-            I hope that you can see this email, if not
               <td valign="top" width="30%">
              <div mc:edit="std_preheader_links">
               Email not displaying correctly? <br /><a href="www.aseanyouth.net" target="_blank">View it in your browser</a>.
               </div>
-            </td>
-           Please click here
+	     </td>
            </tr>
           </table>
         </td>

@@ -12,11 +12,24 @@
               Use this area to offer a short teaser of your email's content
              </div>
             </td>
-            If you cannot see the email
+            I hope that you can see this email, if not
               <td valign="top" width="170">
              <div mc:edit="std_preheader_links">
-              Email not displaying correctly?<br /><a href="*|ARCHIVE|*" target="_blank">View it in your browser</a>.
+              Email not displaying correctly? <br /><a href="www.aseanyouth.net" target="_blank">View it in your browser</a>.
               </div>
             </td>
-            
+           Please click here
            </tr>
+          </table>
+          STANDARD TITLE FOR EMAIL
+        </td>
+      </tr>
+     </table>
+     STANDARD PREHEADER (IF ANY)
+     <table border="0" cellpading="0" cellspacing="0" width="600" id="templateContainer">
+      <tr>
+       <td aligh="center" valign="top">
+        Standard template header
+        <table border="0"cellpadding="0" cellspacing="0" width="600" id="templateHeader">
+         <tr>
+           

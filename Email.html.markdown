@@ -3,14 +3,14 @@
  <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="backgroundTable">>
    <tr>
     <td align="center" valign="top" bgcolor="#EDF1F2">
-     <table border="0" cellpadding="0" cellspacing="0" width="600" id="templatePreheader">
+     <table border="0,5" cellpadding="0" cellspacing="0" width="600" id="templatePreheader">
        <tr>
          <td valign="top" class="preheaderContent">
-          <table border="0" cellpadding="10" cellspacing="0" width="600">
+          <table border="1" cellpadding="10" cellspacing="0" width="600">
            <tr>
             <td valign="top" width="600">
              <div mc:edit="std_preheader_content">
-              Use this area to offer a short teaser of your email's content
+               <img src="https://aseanyouthnet.files.wordpress.com/2018/01/screenshoot-for-email-template-11.png" 
              </div>
             </td>
             I hope that you can see this email, if not
@@ -22,19 +22,16 @@
            Please click here
            </tr>
           </table>
-          STANDARD TITLE FOR EMAIL
         </td>
       </tr>
      </table>
      STANDARD PREHEADER (IF ANY)
-     <table border="0" cellpading="0" cellspacing="0" width="600" id="templateContainer">
+     <table border="1" cellpading="0" cellspacing="0" width="600" id="templateContainer">
       <tr>
        <td aligh="center" valign="top">
-        Standard template header (Begin Template Header)
-        <table border="0"cellpadding="0" cellspacing="0" width="600" id="templateHeader">
+        <table border="1"cellpadding="0" cellspacing="0" width="600" id="templateHeader">
          <tr>
           <td class="headercontent">
-           Explanation about ASEAN Youth Organization and some information about activities
            <table border="0" cellpadding="10"cellspacing="0" width="100%">
             <tr>
              <td class="Left Header content">
@@ -43,7 +40,7 @@
               </div>
              </td>
              <td valign=middle" width="600">
-                <img src="https://aseanyouthnet.files.wordpress.com/2017/05/vietnambannerlandingpage900x200-copy1.jpg" style="max-width:180px;" id=HeaderImage campaign-icon" mc:label="header_image" mc:edit="header_image" mc:allowtext/>
+                <img src="https://aseanyouthnet.files.wordpress.com/2017/05/vietnambannerlandingpage900x200-copy1.jpg" style="max-width:300px;" id=HeaderImage campaign-icon" mc:label="header_image" mc:edit="header_image" mc:allowtext/>
             </td>
             <td class="rightHeaderContent">
              <div mc:edit="header_content_right">
@@ -52,7 +49,6 @@
             </td>
            </tr>
           </table>
-        End Module: Letterhead, Center Header Image
        </td>
       </tr>
      </table>
@@ -61,8 +57,8 @@
    </tr>
     <tr>
      <td align="center" valign="top">
-      Begin Template body
-      <table border="0" cellpadding="10" cellspacing="0" width="600" id="templateBody">
+      WHO ARE WE?
+      <table border="1" cellpadding="10" cellspacing="0" width="600" id="templateBody">
       <tr>
        <td valign="top" class="bodyContent">
         Begin Module: Standard Content
@@ -70,54 +66,49 @@
          <tr>
           <td valign="top">
            <div mc:edit="std_content00">
-            <h2 class="h2">Heading 2</h2>
-            <h3 class="h3">Heading 3</h3>
-            <strong>Getting started:</strong> Customize your template by clicking on the style editor tabs up above. Set your fonts, colors, and styles. After setting your styling is all done you can click here in this area, delete the text, and start adding your own awesome content!
+            <h2 class="h2">ASEAN Youth Organization</h2>
+            <h3 class="h3">Who we are</h3>
+            <strong>Getting started:</strong> The ASEAN Youth Organization envisions a world where the youth exhibit a heightened interest on ASEAN and on each other. To this end, the organization, through its networks and members, conducts programs and projects that empower the youth and engage their respective communities to instill and implement forward-looking ideas that would result in positive change.
              <br />
              <br />
-             <h4 class="h4">Heading 4</h4>
-             After you enter your content, highlight the text you want to style and select the options you set in the style editor in the "styles" drop down box. Want to <a href="http://www.mailchimp.com/kb/article/im-using-the-style-designer-and-i-cant-get-my-formatting-to-change" target="_blank">get rid of styling on a bit of text</a>, but having trouble doing it? Just use the "remove formatting" button to strip the text of any formatting and reset your style.
-															</div>
-														</td>
+             <h4 class="h4">What we are doing</h4>
+	<b>To serve</b> as an avenue and platform for the youth for free-exchange of information and ideas on matters of interest within and outside ASEAN;<br/><b>To promote</b> awareness and interest towards the establishment of ASEAN Community and its three respective pillars (Political–Security Community, Economic Community, and Socio-Cultural Community);<br/><b>To foster</b> long-lasting friendship and understanding between ASEAN and non-ASEAN members;<br/><b>To cooperate and collaborate</b> with governments, NGOs, private organizations, and the ASEAN Secretariat on matters that would realize the ideals of the ASEAN Youth Organization; and<br/><b>To empower</b> the youth by organizing and conducting projects that improve their knowledge, skills, attitudes, and behaviors through instilling forward-looking ideas that would result in positive change in their respective communities.
+	       </div>
+	      </td>
              </tr>
            </table>
-        End of template
        </td>
       </tr>
        <tr>
         <td align="center" valign="top">
-         Begin template Footer
-         <table border="0" cellpading="0" cellspacing="0" width="600" id="templateFooter">
+         <table border="1" cellpading="10" cellspacing="0" width="1200" id="templateFooter">
          <tr>
-          <td valign="top" class="footercotent">
+          <td valign="top" class="footercontent">
            Begin module standard footer
-           <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateFooter">
+           <table border="0.5" cellpadding="0" cellspacing="0" width="1200" id="templateFooter">
             <tr>
              <td valign="top" class="FooterContent">
-              Standard Footer
-              <table border="0" cellpadding="10" cellspacing="0" width="100%">
+              <table border="0" cellpadding="50" cellspacing="0" width="1200">
                <tr>
-                <td colspan="2" valign="middle" id="social">
+                <td align="center" colspan="2" valign="middle" id="social">
                  <div mc:edit="std_social">
-                  &nbsp;<a href="*|TWITTER:PROFILEURL|*">follow on Twitter</a> | <a href="*|FACEBOOK:PROFILEURL|*">friend on Facebook</a> | <a href="*|FORWARD|*">forward to a friend</a>&nbsp;
+                  &nbsp;<a href="https://twitter.com/ayoasean">Follow our Twitter</a> | <a href="https://www.facebook.com/pg/ASEANCommunity">Like our Facebook</a> | <a href="https://www.instagram.com/ayoasean/">Follow our Instagram</a>&nbsp;
                  </div>
                 </td>
                </tr>
                <tr>
-                <td valign="top" width="350">
+                <td align="center" valign="middle" width="600">
                  <div mc:edit="std_footer">
-																 <em>Copyright &copy; *|CURRENT_YEAR|* *|LIST:COMPANY|*, All rights reserved.</em>
+																 <b>Copyright &copy; | 2018 | A.Y.O. All rights reserved.</b>
 																<br/>
-																*|IFNOT:ARCHIVE_PAGE|* *|LIST:DESCRIPTION|*
+																<strong>Send your quiries to:</strong>
 																<br/>
-																<strong>Our mailing address is:</strong>
-																<br/>
-																*|HTML:LIST_ADDRESS_HTML|**|END:IF|* 
+																info@aseanyouth.net 
                </div>
                  </td>
-                  <td valign="top" width="190" id="monkeyRewards">
+                  <td valign="middle" width="600" id="monkeyRewards">
                    <div mc:edit="monkeyrewards">
-                    *|IF:REWARDS|* *|HTML:REWARDS|* *|END:IF|*
+                    *OTHER CONTENT IF NEEDED*
                    </div>
                   </td>
                  </tr>

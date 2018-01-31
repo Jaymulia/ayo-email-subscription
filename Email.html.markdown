@@ -9,7 +9,7 @@
           <table border="1" cellpadding="10" cellspacing="0" width="600">
            <tr>
             <td valign="top" width="600">
-             <div mc:edit="std_preheader_content">
+             <div style="max-width:180px; mc:edit="std_preheader_content">
                <img src="https://aseanyouthnet.files.wordpress.com/2018/01/screenshoot-for-email-template-11.png" 
              </div>
             </td>
@@ -38,7 +38,7 @@
               </div>
              </td>
              <td valign=middle" width="600">
-                <img src="https://aseanyouthnet.files.wordpress.com/2017/05/vietnambannerlandingpage900x200-copy1.jpg" style="max-width:300px;" id=HeaderImage campaign-icon" mc:label="header_image" mc:edit="header_image" mc:allowtext/>
+                <img src="https://aseanyouthnet.files.wordpress.com/2017/05/vietnambannerlandingpage900x200-copy1.jpg" style="max-width:180px;" id=HeaderImage campaign-icon" mc:label="header_image" mc:edit="header_image" mc:allowtext/>
             </td>
             <td class="rightHeaderContent">
              <div mc:edit="header_content_right">
@@ -79,11 +79,11 @@
       </tr>
        <tr>
         <td align="center" valign="top">
-         <table border="1" cellpading="10" cellspacing="0" width="1200" id="templateFooter">
+         <table border="1" cellpading="10" cellspacing="0" width="100%" id="templateFooter">
          <tr>
           <td valign="top" class="footercontent">
            Begin module standard footer
-           <table border="0.5" cellpadding="0" cellspacing="0" width="1200" id="templateFooter">
+           <table border="0.5" cellpadding="0" cellspacing="0" width="100%" id="templateFooter">
             <tr>
              <td valign="top" class="FooterContent">
               <table border="0" cellpadding="50" cellspacing="0" width="1200">

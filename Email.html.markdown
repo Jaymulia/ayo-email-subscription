@@ -3,17 +3,17 @@
  <table align="center" border="3" cellpadding="0" cellspacing="0" height="100%" width="100%" id="backgroundTable">>
    <tr>
     <td align="center" valign="top" bgcolor="#EDF1F2">
-     <table border="" cellpadding="0" cellspacing="0" width="600" id="templatePreheader">
+     <table border="0" cellpadding="0" cellspacing="0" width="600" id="templatePreheader">
        <tr>
          <td valign="top" class="preheaderContent">
-          <table border="0" cellpadding="10" cellspacing="0" width="600">
+          <table border="1" cellpadding="10" cellspacing="0" width="600">
            <tr>
             <td valign="top" width="600">
-             <div style="max-width:180px; mc:edit="std_preheader_content">
-               <img src="https://aseanyouthnet.files.wordpress.com/2018/01/screenshoot-for-email-template-11.png" 
+             <div align="center" valign="middle" style="height="80" width="600"; mc:edit="std_preheader_content">
+               <img src="https://aseanyouthnet.files.wordpress.com/2018/01/untitled-2-2018-01-31-14-55-42-e1517385408547.png" 
              </div>
             </td>
-              <td valign="middle" width="400" align="center">
+              <td valign="middle" width="600" align="center">
              <div mc:edit="std_preheader_links">
               You cannot see this email properly? <br /><a href="www.aseanyouth.net" target="_blank">View it in your browser</a>.
               </div>
@@ -24,23 +24,23 @@
       </tr>
      </table>
      STANDARD PREHEADER (IF ANY)
-     <table border="1" cellpading="0" cellspacing="0" width="600" id="templateContainer">
+     <table border="0" cellpading="0" cellspacing="0" width="600" id="templateContainer">
       <tr>
        <td aligh="center" valign="top">
-        <table border="1"cellpadding="0" cellspacing="0" width="600" id="templateHeader">
+        <table border="0"cellpadding="0" cellspacing="0" width="600" id="templateHeader">
          <tr>
           <td class="headercontent">
            <table border="0" cellpadding="10"cellspacing="0" width="100%">
             <tr>
-             <td class="Left Header content">
+             <td valign= "middle" align="center" class="Left Header content">
               <div mc:edit="header_content_left">
                Heading 1
               </div>
              </td>
-             <td valign=middle" width="600">
+             <td valign="middle" width="100%">
                 <img src="https://aseanyouthnet.files.wordpress.com/2017/05/vietnambannerlandingpage900x200-copy1.jpg" style="max-width:180px;" id=HeaderImage campaign-icon" mc:label="header_image" mc:edit="header_image" mc:allowtext/>
             </td>
-            <td class="rightHeaderContent">
+            <td valign= "middle" align="center" class="rightHeaderContent">
              <div mc:edit="header_content_right">
                Heading 1
              </div>
@@ -56,7 +56,7 @@
     <tr>
      <td align="center" valign="top">
       WHO ARE WE?
-      <table border="1" cellpadding="10" cellspacing="0" width="600" id="templateBody">
+      <table border="0" cellpadding="10" cellspacing="0" width="600" id="templateBody">
       <tr>
        <td valign="top" class="bodyContent">
         Begin Module: Standard Content
@@ -79,14 +79,14 @@
       </tr>
        <tr>
         <td align="center" valign="top">
-         <table border="1" cellpading="10" cellspacing="0" width="100%" id="templateFooter">
+         <table border="1" cellpading="0" cellspacing="0" width="100%" id="templateFooter">
          <tr>
           <td valign="top" class="footercontent">
            Begin module standard footer
            <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateFooter">
             <tr>
              <td valign="top" class="FooterContent">
-              <table border="0" cellpadding="50" cellspacing="0" width="1200">
+              <table border="0" cellpadding="0" cellspacing="0" width="100%">
                <tr>
                 <td align="center" colspan="2" valign="middle" id="social">
                  <div mc:edit="std_social">
@@ -104,7 +104,7 @@
 																info@aseanyouth.net 
                </div>
                  </td>
-                  <td valign="middle" width="600" id="monkeyRewards">
+                  <td valign="middle" width="600" id="otherInformation">
                    <div mc:edit="monkeyrewards">
                     *OTHER CONTENT IF NEEDED*
                    </div>

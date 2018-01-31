@@ -1,14 +1,14 @@
 <html>
 <body style="margin" border:"0" padding: 0;">
- <table align="center" border="3" cellpadding="0" cellspacing="0" height="100%" width="100%" id="backgroundTable">>
+ <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="backgroundTable">>
    <tr>
-    <td align="center" valign="top" bgcolor="#EDF1F2">
-     <table border="0" cellpadding="0" cellspacing="0" width="600" id="templatePreheader">
+    <td align="center" valign="top" bgcolor="#F3F2ED">
+     <table border="1" cellpadding="0" cellspacing="0" width="600" id="templatePreheader">
        <tr>
          <td valign="top" class="preheaderContent">
-          <table border="1" cellpadding="10" cellspacing="0" width="600">
+          <table border="0" cellpadding="10" cellspacing="0" width="600">
            <tr>
-            <td valign="top" width="600">
+            <td border="1" valign="top" width="600">
              <div align="center" valign="middle" style="height="80" width="600"; mc:edit="std_preheader_content">
                <img src="https://aseanyouthnet.files.wordpress.com/2018/01/untitled-2-2018-01-31-14-55-42-e1517385408547.png" 
              </div>
@@ -23,13 +23,13 @@
         </td>
       </tr>
      </table>
-     <table border="0" cellpading="0" cellspacing="0" width="600" id="templateContainer">
+     <table border="1" cellpading="0" cellspacing="0" width="600" id="templateContainer">
       <tr>
        <td aligh="center" valign="top">
         <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateHeader">
          <tr>
           <td class="headercontent">
-           <table border="1" cellpadding="10"cellspacing="0" width="100%">
+           <table border="0" cellpadding="10"cellspacing="0" width="100%">
             <tr>
              <td valign= "middle" align="center" class="Left Header content">
               <div mc:edit="header_content_left">
@@ -57,7 +57,7 @@
       <table border="0" cellpadding="10" cellspacing="0" width="600" id="templateBody">
       <tr>
        <td valign="top" class="bodyContent">
-        <table border="1" cellpadding="10" cellspacing="0" width="100%">
+        <table border="0" cellpadding="10" cellspacing="0" width="100%">
          <tr>
           <td valign="top">
            <div mc:edit="std_content00">
@@ -75,13 +75,13 @@
       </tr>
        <tr>
         <td align="center" valign="top">
-         <table border="1" cellpading="0" cellspacing="0" width="100%" id="templateFooter">
+         <table border="0" cellpading="0" cellspacing="0" width="100%" id="templateFooter">
          <tr>
           <td valign="top" class="footercontent">
            <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateFooter">
             <tr>
              <td valign="top" class="FooterContent">
-              <table border="0" cellpadding="0" cellspacing="0" width="100%">
+              <table border="1" cellpadding="0" cellspacing="0" width="100%">
                <tr>
                 <td align="center" colspan="2" valign="middle" id="social">
                  <div mc:edit="std_social">

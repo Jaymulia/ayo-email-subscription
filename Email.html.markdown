@@ -1,3 +1,4 @@
+<html>
 <body style="margin: 0; padding: 0;">
  <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="backgroundTable">>
    <tr>

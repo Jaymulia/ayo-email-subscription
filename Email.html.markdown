@@ -29,7 +29,43 @@
      <table border="0" cellpading="0" cellspacing="0" width="600" id="templateContainer">
       <tr>
        <td aligh="center" valign="top">
-        Standard template header
+        Standard template header (Begin Template Header)
         <table border="0"cellpadding="0" cellspacing="0" width="600" id="templateHeader">
          <tr>
+          <td class="headercontent">
+           Explanation about ASEAN Youth Organization and some information about activities
+           <table border="0" cellpadding="10"cellspacing="0" width="100%">
+            <tr>
+             <td class="Left Header content">
+              <div mc:edit="header_content_left">
+               Heading 1
+              </div>
+             </td>
+             <td valign=middle" width="600">
+                <img src="https://aseanyouthnet.files.wordpress.com/2017/05/vietnambannerlandingpage900x200-copy1.jpg" style="max-width:180px;" id=HeaderImage campaign-icon" mc:label="header_image" mc:edit="header_image" mc:allowtext/>
+            </td>
+            <td class="rightHeaderContent">
+             <div mc:edit="header_content_right">
+               Heading 1
+             </div>
+            </td>
+           </tr>
+          </table>
+        Location Where
+       </td>
+      </tr>
+     </table>
+     End of header
+    </td>
+ </tr> 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+             
            

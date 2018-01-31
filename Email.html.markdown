@@ -26,10 +26,10 @@
      <table border="0" cellpading="0" cellspacing="0" width="600" id="templateContainer">
       <tr>
        <td aligh="center" valign="top">
-        <table border="0"cellpadding="0" cellspacing="0" width="600" id="templateHeader">
+        <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateHeader">
          <tr>
           <td class="headercontent">
-           <table border="0" cellpadding="10"cellspacing="0" width="100%">
+           <table border="1" cellpadding="10"cellspacing="0" width="100%">
             <tr>
              <td valign= "middle" align="center" class="Left Header content">
               <div mc:edit="header_content_left">
@@ -57,7 +57,7 @@
       <table border="0" cellpadding="10" cellspacing="0" width="600" id="templateBody">
       <tr>
        <td valign="top" class="bodyContent">
-        <table border="0" cellpadding="10" cellspacing="0" width="100%">
+        <table border="1" cellpadding="10" cellspacing="0" width="100%">
          <tr>
           <td valign="top">
            <div mc:edit="std_content00">

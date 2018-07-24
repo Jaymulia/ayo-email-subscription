@@ -57,19 +57,19 @@
                  </td>
                 </tr>
                 <tr>
-                 <td align="center" valign="middle" width="900" bgcolor="#FFDDA2">
+                 <td align="center" valign="middle" width="900" bgcolor="#FFF4D0">
                   <div mc:edit="std_footer">
 		   <h4 class="h4"><span style="font-size:14px">Copyright &copy; | 2018 | A.Y.O.<br/><b>All rights reserved</b></span></h6>
                   </div>
                  </td>
-                 <td align="center" valign="middle" width="600" id="otherInformation" bgcolor="#FFDDA2">
+                 <td align="center" valign="middle" width="600" id="otherInformation" bgcolor="#FFF4D0">
                   <div mc:edit="OtherInformation">
                    <h4 class="h4"><span style="font-size:14px">If you have any question, email to:<br/><b>info@aseanyouth.net</b></span></h6>
                   </div>
                  </td>
                 </tr>
                 <tr>
-                 <td colspan="2" align="center" valign="middle" id="utility" bgcolor="#FFDDA2">
+                 <td colspan="2" align="center" valign="middle" id="utility" bgcolor="#FFF4D0">
                   <div mc:edit="std_utility">
                     &nbsp;<span style="font-size:14px"><a href="www.aseanyouth.net">check our website</a></span>
                   </div>

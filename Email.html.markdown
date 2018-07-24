@@ -61,8 +61,8 @@
          <tr>
           <td valign="top">
            <div mc:edit="std_content00">
-		<img src="https://aseanyouthnet.files.wordpress.com/2018/07/seminar-mobile-marketing1.jpg"
-	       </div>
+	    <img src="https://aseanyouthnet.files.wordpress.com/2018/07/seminar-mobile-marketing2.jpg"
+	      </div>
 	      </td>
              </tr>
            </table>

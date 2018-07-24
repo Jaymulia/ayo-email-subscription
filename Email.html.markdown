@@ -27,7 +27,6 @@
       <tr>
        <td align="center" valign="top">
         <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateHeader">
-         <tr>
           <td class="headercontent">
            <table border="0" cellpadding="5"cellspacing="0" width="100%">
              <td valign="middle" width="100%">
@@ -35,7 +34,6 @@
             </td>
           </table>
        </td>
-      </tr>
      </table>
     </td>
    </tr>

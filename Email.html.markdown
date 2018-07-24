@@ -15,7 +15,7 @@
             </td>
               <td valign="middle" width="600" align="center">
              <div mc:edit="std_preheader_links">
-              You cannot see this email properly? <br /><a href="www.aseanyouth.net" target="_blank">View it in your browser</a>.
+              Interested to this FREE Training? <br /><a href="http://gomobileagency.com/goid1/" target="_blank">Register here</a>.
               </div>
 	     </td>
            </tr>

@@ -26,7 +26,7 @@
      <table border="0" cellpading="0" cellspacing="0" width="600" id="templateContainer">
       <tr>
        <td align="center" valign="top">
-        <table border="0" cellpadding="5" cellspacing="0" width="full" id="templateHeader">
+        <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateHeader">
                 <img src="https://aseanyouthnet.files.wordpress.com/2018/07/youth-empowerment-programe.png">
      </table>
     </td>

@@ -30,11 +30,9 @@
          <tr>
           <td class="headercontent">
            <table border="0" cellpadding="10"cellspacing="0" width="100%">
-            <tr>
              <td valign="middle" width="100%">
                 <img src="https://aseanyouthnet.files.wordpress.com/2017/05/vietnambannerlandingpage900x200-copy1.jpg" style="max-width:180px;" id=HeaderImage campaign-icon" mc:label="header_image" mc:edit="header_image" mc:allowtext/>
             </td>
-           </tr>
           </table>
        </td>
       </tr>
@@ -45,7 +43,7 @@
      <td align="center" valign="top">
       <h2 class="h4">ASEAN Youth Organization</h2>
        <table border="0" cellpadding="5" cellspacing="0" width="full" id="templateBody">
-         <td valign="middle" width="200%" class="bodyContent">
+         <td valign="middle" class="bodyContent">
 	    <img src="https://aseanyouthnet.files.wordpress.com/2018/07/seminar-mobile-marketing2.jpg">
 	  </td>
          </table>

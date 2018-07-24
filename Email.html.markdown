@@ -6,7 +6,7 @@
      <table border="0" cellpadding="0" cellspacing="0" width="600" id="templatePreheader">
        <tr>
          <td valign="top" class="preheaderContent">
-          <table border="0" cellpadding="10" cellspacing="0" width="600">
+          <table border="0" cellpadding="0" cellspacing="0" width="600">
            <tr>
             <td border="0" valign="top" width="600">
              <div align="center" valign="middle" style="height="80" width="600"; mc:edit="std_preheader_content">

@@ -61,9 +61,7 @@
          <tr>
           <td valign="top">
            <div mc:edit="std_content00">
-			  <img src="https://aseanyouthnet.files.wordpress.com/2018/02/sampleemaildesign1.png"
-            <strong>Getting started:</strong> The ASEAN Youth Organization envisions a world where the youth exhibit a heightened interest on ASEAN and on each other. To this end, the organization, through its networks and members, conducts programs and projects that empower the youth and engage their respective communities to instill and implement forward-looking ideas that would result in positive change.
-             <br/>
+		<img src="https://aseanyouthnet.files.wordpress.com/2018/07/seminar-mobile-marketing1.jpg"
 	       </div>
 	      </td>
              </tr>

@@ -45,8 +45,8 @@
      <td align="center" valign="top">
       <h2 class="h4">ASEAN Youth Organization</h2>
        <table border="0" cellpadding="5" cellspacing="0" width="full" id="templateBody">
-         <td valign="middle" class="bodyContent">
-	    <img src="https://aseanyouthnet.files.wordpress.com/2018/07/seminar-mobile-marketing2.jpg" style="double;"
+         <td valign="middle" width="200%" class="bodyContent">
+	    <img src="https://aseanyouthnet.files.wordpress.com/2018/07/seminar-mobile-marketing2.jpg">
 	  </td>
          </table>
        </td>

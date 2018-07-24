@@ -49,7 +49,7 @@
        <td valign="top" class="bodyContent">
         <table border="0" cellpadding="10" cellspacing="0" width="100%">
          <tr halign="center">
-          <td align="top" width="100%">
+          <td valign="middle" width="100%">
            <div mc:edit="std_content00">
 	    <img src="https://aseanyouthnet.files.wordpress.com/2018/07/seminar-mobile-marketing2.jpg" align="center">
 	      </div>

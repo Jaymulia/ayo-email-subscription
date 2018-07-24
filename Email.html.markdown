@@ -39,7 +39,7 @@
    </tr>
     <tr>
      <td align="center" valign="top">
-      <h2 class="h4">ASEAN Youth Organization</h2>
+      <h2 class="h4">DIGITAL INDUSTRY TRAINING </h2>
        <table border="0" cellpadding="5" cellspacing="0" width="full" id="templateBody">
 	    <img src="https://aseanyouthnet.files.wordpress.com/2018/07/seminar-mobile-marketing2.jpg"
         </table>
@@ -76,7 +76,7 @@
                  <tr>
                   <td colspan="2" align="center" valign="middle" id="utility">
                     <div mc:edit="std_utility">
-                    &nbsp;<a href="*|UNSUB|*">unsubscribe from this list</a> | <a href="*|UPDATE_PROFILE|*">update subscription</a>&nbsp;
+                    &nbsp;<a href="*|UNSUB|*">unsubscribe from this list</a>
                     </div>
                    </td>
                   </tr>

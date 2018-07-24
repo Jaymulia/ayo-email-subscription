@@ -10,7 +10,7 @@
            <tr>
             <td valign="middle" width="600" align="center">
              <div mc:edit="std_preheader_links">
-              Interested to join this FREE training? <br /><a href="http://gomobileagency.com/goid1/" target="_blank">REGISTER HERE</a>
+              Check our activities? <br /><a href="http://gomobileagency.com/goid1/" target="_blank">OPEN WEBSITE</a>
               </div>
 	     </td>
               <td valign="middle" width="600" align="center">

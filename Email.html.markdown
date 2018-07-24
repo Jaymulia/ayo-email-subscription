@@ -8,11 +8,11 @@
          <td valign="top" class="preheaderContent">
           <table border="0" cellpadding="0" cellspacing="0" width="600">
            <tr>
-            <td border="0" valign="top" width="600">
-             <div align="center" valign="middle" style="height="50" width="600"; mc:edit="std_preheader_content">
-               <img src="https://aseanyouthnet.files.wordpress.com/2018/07/ayologoemailtopleft.png" 
-             </div>
-            </td>
+            <td valign="middle" width="600" align="center">
+             <div mc:edit="std_preheader_links">
+              Interested to join this FREE training? <br /><a href="http://gomobileagency.com/goid1/" target="_blank">REGISTER HERE</a>
+              </div>
+	     </td>
               <td valign="middle" width="600" align="center">
              <div mc:edit="std_preheader_links">
               Interested to join this FREE training? <br /><a href="http://gomobileagency.com/goid1/" target="_blank">REGISTER HERE</a>

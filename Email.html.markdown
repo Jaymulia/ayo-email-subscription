@@ -2,7 +2,7 @@
 <body style="margin" border:"0" padding: 0;">
  <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="backgroundTable">>
    <tr>
-    <td align="center" valign="top" bgcolor="#F9FEFF">
+    <td align="center" valign="top" bgcolor="#F6FEFF">
      <table border="0" cellpadding="0" cellspacing="0" width="600" id="templatePreheader">
        <tr>
          <td valign="top" class="preheaderContent">

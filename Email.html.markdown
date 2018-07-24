@@ -42,13 +42,13 @@
     </tr>
       <tr>
        <td align="center" valign="top">
-         <table border="0" cellpading="0" cellspacing="0" width="600" id="templateFooter">
+         <table border="0" cellpading="0" cellspacing="0" width="900" id="templateFooter">
           <tr>
            <td valign="top" class="footercontent">
-            <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateFooter">
+            <table border="0" cellpadding="0" cellspacing="0" width="900" id="templateFooter">
              <tr>
               <td valign="top" class="FooterContent">
-               <table border="0" cellpadding="0" cellspacing="0" width="600">
+               <table border="0" cellpadding="0" cellspacing="0" width="900">
                 <tr>
                  <td align="center" colspan="2" valign="middle" id="social" bgcolor="#FFDDA2">
                   <div mc:edit="std_social">
@@ -57,7 +57,7 @@
                  </td>
                 </tr>
                 <tr>
-                 <td align="center" valign="middle" width="600" bgcolor="#FFDDA2">
+                 <td align="center" valign="middle" width="900" bgcolor="#FFDDA2">
                   <div mc:edit="std_footer">
 									 <h6 class="h6">Copyright &copy; | 2018 | A.Y.O.<br/><b>All rights reserved</b></h6>
                   </div>

@@ -41,34 +41,34 @@
       </tr>
        <tr>
         <td align="center" valign="top">
-         <table border="0" cellpading="0" cellspacing="0" width="100%" id="templateFooter">
+         <table border="0" cellpading="0" cellspacing="0" width="600" id="templateFooter">
          <tr>
           <td valign="top" class="footercontent">
-           <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateFooter">
+           <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateFooter">
             <tr>
              <td valign="top" class="FooterContent">
-              <table border="0" cellpadding="0" cellspacing="0" width="100%">
+              <table border="0" cellpadding="0" cellspacing="0" width="600">
                <tr>
-                <td align="center" colspan="2" valign="middle" id="social" bgcolor="#FF6FFF">
+                <td align="center" colspan="2" valign="middle" id="social" bgcolor="#FF9FFF">
                  <div mc:edit="std_social">
                   <h4 class="h4"> &nbsp;<a href="https://twitter.com/ayoasean">Follow our Twitter</a> | <a href="https://www.facebook.com/pg/ASEANCommunity">Like our Facebook</a> | <a href="https://www.instagram.com/ayoasean/">Follow our Instagram</a>&nbsp;</h4>
                  </div>
                 </td>
                </tr>
                <tr>
-                <td align="center" valign="middle" width="600">
+                <td align="center" valign="middle" width="600" bgcolor="#FF9FFF">
                  <div mc:edit="std_footer">
 																  <h6 class="h6">Copyright &copy; | 2018 | A.Y.O.<br/><b>All rights reserved</b></h6>
                </div>
                  </td>
-                  <td align="center" valign="middle" width="600" id="otherInformation">
+                  <td align="center" valign="middle" width="600" id="otherInformation" bgcolor="#FF9FFF">
                    <div mc:edit="OtherInformation">
                     <h6 class="h6">If you have any question, email to:<br/><b>info@aseanyouth.net</b></h6>
                    </div>
                   </td>
                  </tr>
                  <tr>
-                  <td colspan="2" align="center" valign="middle" id="utility">
+                  <td colspan="2" align="center" valign="middle" id="utility" bgcolor="#FF9FFF">
                     <div mc:edit="std_utility">
                     &nbsp;<a href="www.aseanyouth.net">check our website</a>
                     </div>

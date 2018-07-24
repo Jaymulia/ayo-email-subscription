@@ -42,7 +42,7 @@
     </tr>
       <tr>
        <td align="center" valign="top">
-         <table border="0" cellpading="0" cellspacing="0" width="900" id="templateFooter">
+         <table border="0" cellpading="0" cellspacing="0" width="100%" id="templateFooter">
           <tr>
            <td valign="top" class="footercontent">
             <table border="0" cellpadding="0" cellspacing="0" width="900" id="templateFooter">

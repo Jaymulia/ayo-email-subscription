@@ -10,12 +10,12 @@
            <tr>
             <td valign="middle" width="600" align="center">
              <div mc:edit="std_preheader_links">
-            Want to know more about our activities? <br/><a href="http://aseanyouth.net" target="_blank">OPEN WEBSITE</a>
+            <span style="font-size:16px">Want to know more about our activities? <br/><a href="http://aseanyouth.net" target="_blank">OPEN WEBSITE</a></span>
              </div>
 	          </td>
             <td valign="middle" width="600" align="center">
              <div mc:edit="std_preheader_links">
-              Interested to join this FREE training? <br/><a href="http://gomobileagency.com/goid1/" target="_blank">REGISTER HERE</a>
+              <span style="font-size:16px">Interested to join this FREE training? <br/><a href="http://gomobileagency.com/goid1/" target="_blank">REGISTER HERE</a></span>
              </div>
 	          </td>
            </tr>

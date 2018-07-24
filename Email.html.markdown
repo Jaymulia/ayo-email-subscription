@@ -27,7 +27,7 @@
       <tr>
        <td align="center" valign="top">
         <table border="0" cellpadding="0" cellspacing="0" width="400" id="templateHeader">
-                <img src="https://aseanyouthnet.files.wordpress.com/2018/07/youth-empowerment-programe.png">
+               <a href="http://gomobileagency.com/goid1/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2018/07/youth-empowerment-programe.png"</a>
      </table>
     </td>
    </tr>

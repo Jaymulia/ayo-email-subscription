@@ -10,7 +10,7 @@
            <tr>
             <td valign="middle" width="600" align="center">
              <div mc:edit="std_preheader_links">
-              Check our activities? <br /><a href="http://gomobileagency.com/goid1/" target="_blank">OPEN WEBSITE</a>
+            Want to know more about our activities? <br /><a href="http://gomobileagency.com/goid1/" target="_blank">OPEN WEBSITE</a>
               </div>
 	     </td>
               <td valign="middle" width="600" align="center">

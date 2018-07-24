@@ -27,11 +27,9 @@
       <tr>
        <td align="center" valign="top">
         <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateHeader">
-          <td class="headercontent">
            <table border="0" cellpadding="5"cellspacing="0" width="100%">
                 <img src="https://aseanyouthnet.files.wordpress.com/2018/07/youth-empowerment-programe.png" style="max-width:180px;" id=HeaderImage campaign-icon" mc:label="header_image" mc:edit="header_image" mc:allowtext/>
           </table>
-       </td>
      </table>
     </td>
    </tr>

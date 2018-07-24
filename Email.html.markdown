@@ -23,7 +23,7 @@
         </td>
       </tr>
      </table>
-     <table border="0" cellpading="0" cellspacing="0" width="600" id="templateContainer">
+     <table border="0" cellpading="0" cellspacing="0" width="full" id="templateContainer">
       <tr>
        <td align="center" valign="top">
         <table border="0" cellpadding="5" cellspacing="0" width="full" id="templateHeader">

@@ -34,11 +34,6 @@
              <td valign="middle" width="100%">
                 <img src="https://aseanyouthnet.files.wordpress.com/2017/05/vietnambannerlandingpage900x200-copy1.jpg" style="max-width:180px;" id=HeaderImage campaign-icon" mc:label="header_image" mc:edit="header_image" mc:allowtext/>
             </td>
-            <td valign= "middle" align="center" class="rightHeaderContent">
-             <div mc:edit="header_content_right">
-               Heading 1
-             </div>
-            </td>
            </tr>
           </table>
        </td>

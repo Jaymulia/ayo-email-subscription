@@ -40,7 +40,7 @@
        </td>
       </tr>
        <tr>
-        <td align="center" valign="top" bgcolor="#EEFFFE">
+        <td align="center" valign="top">
          <table border="0" cellpading="0" cellspacing="0" width="600" id="templateFooter">
          <tr>
           <td valign="top" class="footercontent">

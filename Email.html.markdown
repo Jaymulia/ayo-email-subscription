@@ -31,6 +31,7 @@
      </table>
     </td>
    </tr>
+    <table>
     <tr>
      <td align="center" valign="top">
       <h2 class="h4">DIGITAL INDUSTRY TRAINING </h2>
@@ -39,6 +40,7 @@
         </table>
        </td>
       </tr>
+      </table>
        <tr>
         <td align="center" valign="top">
          <table border="0" cellpading="0" cellspacing="0" width="600" id="templateFooter">

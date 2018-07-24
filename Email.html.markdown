@@ -27,11 +27,10 @@
       <tr>
        <td align="center" valign="top">
         <table border="0" cellpadding="0" cellspacing="0" width="300" id="templateHeader">
-               <a href="http://gomobileagency.com/goid1/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2018/07/youth-empowerment-programe.png"</a>>
-        </table>
-       </td>
-      </tr>  
+               <a href="http://gomobileagency.com/goid1/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2018/07/youth-empowerment-programe.png"</a>
      </table>
+    </td>
+   </tr>
     <table>
     <tr>
      <td align="center" valign="top">

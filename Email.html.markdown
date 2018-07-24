@@ -35,7 +35,7 @@
      <td align="center" valign="top">
       <h2 class="h4">DIGITAL INDUSTRY TRAINING </h2>
        <table border="0" cellpadding="5" cellspacing="0" width="full" id="templateBody">
-	    <img src="https://aseanyouthnet.files.wordpress.com/2018/07/seminar-mobile-marketing2.jpg"
+	 <a href="http://gomobileagency.com/goid1/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2018/07/seminar-mobile-marketing2.jpg"</a>
         </table>
        </td>
       </tr>

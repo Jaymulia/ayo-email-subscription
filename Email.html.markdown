@@ -46,7 +46,7 @@
       <h2 class="h4">ASEAN Youth Organization</h2>
       <table border="0" cellpadding="10" cellspacing="0" width="600" id="templateBody">
       <tr>
-       <td valign="top" class="bodyContent">
+       <td valign="center" class="bodyContent">
         <table border="0" cellpadding="10" cellspacing="0" width="100%">
          <tr halign="center">
           <td valign="middle" width="100%">

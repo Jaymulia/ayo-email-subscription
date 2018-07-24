@@ -10,7 +10,7 @@
            <tr>
             <td border="0" valign="top" width="600">
              <div align="center" valign="middle" style="height="80" width="600"; mc:edit="std_preheader_content">
-               <img src="https://aseanyouthnet.files.wordpress.com/2018/01/untitled-2-2018-01-31-14-55-42-e1517385408547.png" 
+               <img src="https://aseanyouthnet.files.wordpress.com/2018/07/logoemailtopleft.png" 
              </div>
             </td>
               <td valign="middle" width="600" align="center">

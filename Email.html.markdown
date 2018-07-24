@@ -45,14 +45,10 @@
      <td align="center" valign="top">
       <h2 class="h4">ASEAN Youth Organization</h2>
        <table border="0" cellpadding="10" cellspacing="0" width="600" id="templateBody">
-        <tr>
          <td valign="center" class="bodyContent">
-          <table border="0" cellpadding="0" cellspacing="0" width="100%">
-            <td valign="center" width="full">
-	    <img src="https://aseanyouthnet.files.wordpress.com/2018/07/seminar-mobile-marketing2.jpg" style="max-width;">
-	      </div>
-	      </td>
-           </table>
+	    <img src="https://aseanyouthnet.files.wordpress.com/2018/07/seminar-mobile-marketing2.jpg" style="max-width;"
+	   </td>
+         </table>
        </td>
       </tr>
        <tr>

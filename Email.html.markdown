@@ -10,7 +10,7 @@
            <tr>
             <td valign="middle" width="600" align="center">
              <div mc:edit="std_preheader_links">
-            Want to know more about our activities? <br /><a href="http://gomobileagency.com/goid1/" target="_blank">OPEN WEBSITE</a>
+            Want to know more about our activities? <br/><a href="http://gomobileagency.com/goid1/" target="_blank">OPEN WEBSITE</a>
               </div>
 	     </td>
               <td valign="middle" width="600" align="center">
@@ -27,7 +27,7 @@
       <tr>
        <td align="center" valign="top">
         <table border="0" cellpadding="0" cellspacing="0" width="400" id="templateHeader">
-                <img src="https://aseanyouthnet.files.wordpress.com/2018/07/youth-empowerment-programe.png" href="http://gomobileagency.com/goid1/">
+                <img src="https://aseanyouthnet.files.wordpress.com/2018/07/youth-empowerment-programe.png">
      </table>
     </td>
    </tr>

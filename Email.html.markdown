@@ -76,7 +76,7 @@
                  <tr>
                   <td colspan="2" align="center" valign="middle" id="utility">
                     <div mc:edit="std_utility">
-                    &nbsp;<a href="*|UNSUB|*">unsubscribe from this list</a>
+                    &nbsp;<a href="www.aseanyouth.net">check our website</a>
                     </div>
                    </td>
                   </tr>

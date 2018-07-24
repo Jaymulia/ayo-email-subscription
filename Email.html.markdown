@@ -47,7 +47,7 @@
       <table border="0" cellpadding="10" cellspacing="0" width="600" id="templateBody">
       <tr>
        <td valign="center" class="bodyContent">
-        <table border="0" cellpadding="10" cellspacing="0" width="100%">
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
          <tr halign="center">
           <td valign="middle" width="100%">
 	    <img src="https://aseanyouthnet.files.wordpress.com/2018/07/seminar-mobile-marketing2.jpg">

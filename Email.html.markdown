@@ -31,11 +31,6 @@
           <td class="headercontent">
            <table border="0" cellpadding="10"cellspacing="0" width="100%">
             <tr>
-             <td valign= "middle" align="center" class="Left Header content">
-              <div mc:edit="header_content_left">
-               Heading 1
-              </div>
-             </td>
              <td valign="middle" width="100%">
                 <img src="https://aseanyouthnet.files.wordpress.com/2017/05/vietnambannerlandingpage900x200-copy1.jpg" style="max-width:180px;" id=HeaderImage campaign-icon" mc:label="header_image" mc:edit="header_image" mc:allowtext/>
             </td>

@@ -11,13 +11,13 @@
             <td valign="middle" width="600" align="center">
              <div mc:edit="std_preheader_links">
             Want to know more about our activities? <br/><a href="http://aseanyouth.net" target="_blank">OPEN WEBSITE</a>
-              </div>
-	     </td>
-              <td valign="middle" width="600" align="center">
+             </div>
+	          </td>
+            <td valign="middle" width="600" align="center">
              <div mc:edit="std_preheader_links">
               Interested to join this FREE training? <br/><a href="http://gomobileagency.com/goid1/" target="_blank">REGISTER HERE</a>
-              </div>
-	     </td>
+             </div>
+	          </td>
            </tr>
           </table>
         </td>
@@ -27,10 +27,11 @@
       <tr>
        <td align="center" valign="top">
         <table border="0" cellpadding="0" cellspacing="0" width="300" id="templateHeader">
-               <a href="http://gomobileagency.com/goid1/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2018/07/youth-empowerment-programe.png"</a>
+               <a href="http://gomobileagency.com/goid1/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2018/07/youth-empowerment-programe.png"</a>>
+        </table>
+       </td>
+      </tr>  
      </table>
-    </td>
-   </tr>
     <table>
     <tr>
      <td align="center" valign="top">

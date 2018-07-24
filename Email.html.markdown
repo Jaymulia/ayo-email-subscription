@@ -2,14 +2,14 @@
 <body style="margin" border:"0" padding: 0;">
  <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="100%" id="backgroundTable">>
    <tr>
-    <td align="center" valign="top" bgcolor="#F6FEFF">
+    <td align="center" valign="top" bgcolor="#FFFEFF">
      <table border="0" cellpadding="0" cellspacing="0" width="600" id="templatePreheader">
        <tr>
          <td valign="top" class="preheaderContent">
           <table border="0" cellpadding="0" cellspacing="0" width="600">
            <tr>
             <td border="0" valign="top" width="600">
-             <div align="center" valign="middle" style="height="80" width="600"; mc:edit="std_preheader_content">
+             <div align="center" valign="middle" style="height="50" width="600"; mc:edit="std_preheader_content">
                <img src="https://aseanyouthnet.files.wordpress.com/2018/07/logoemailtopleft.png" 
              </div>
             </td>

@@ -26,7 +26,7 @@
      <table border="0" cellpading="0" cellspacing="0" width="600" id="templateContainer">
       <tr>
        <td align="center" valign="top">
-        <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateHeader">
+        <table border="0" cellpadding="0" cellspacing="0" width="600" id="templateHeader">
                 <img src="https://aseanyouthnet.files.wordpress.com/2018/07/youth-empowerment-programe.png">
      </table>
     </td>
@@ -34,7 +34,7 @@
     <tr>
      <td align="center" valign="top">
       <h2 class="h4">DIGITAL INDUSTRY TRAINING </h2>
-       <table border="0" cellpadding="5" cellspacing="0" width="full" id="templateBody">
+       <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
 	    <img src="https://aseanyouthnet.files.wordpress.com/2018/07/seminar-mobile-marketing2.jpg"
         </table>
        </td>

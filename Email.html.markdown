@@ -34,7 +34,7 @@
     <tr>
      <td align="center" valign="top">
       <h2 class="h4">DIGITAL INDUSTRY TRAINING </h2>
-       <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
+       <table border="0" cellpadding="5" cellspacing="0" width="full" id="templateBody">
 	    <img src="https://aseanyouthnet.files.wordpress.com/2018/07/seminar-mobile-marketing2.jpg"
         </table>
        </td>
@@ -47,9 +47,9 @@
            <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateFooter">
             <tr>
              <td valign="top" class="FooterContent">
-              <table border="0.5" cellpadding="0" cellspacing="0" width="100%">
+              <table border="0" cellpadding="0" cellspacing="0" width="100%">
                <tr>
-                <td align="center" colspan="2" valign="middle" id="social">
+                <td align="center" colspan="2" valign="middle" id="social" bgcolor="#FF6FFF">
                  <div mc:edit="std_social">
                   <h4 class="h4"> &nbsp;<a href="https://twitter.com/ayoasean">Follow our Twitter</a> | <a href="https://www.facebook.com/pg/ASEANCommunity">Like our Facebook</a> | <a href="https://www.instagram.com/ayoasean/">Follow our Instagram</a>&nbsp;</h4>
                  </div>

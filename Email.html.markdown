@@ -51,7 +51,7 @@
          <tr halign="center">
           <td valign="middle" width="100%">
            <div mc:edit="std_content00">
-	    <img src="https://aseanyouthnet.files.wordpress.com/2018/07/seminar-mobile-marketing2.jpg" align="center">
+	    <p style="text-align: center;">img src="https://aseanyouthnet.files.wordpress.com/2018/07/seminar-mobile-marketing2.jpg" align="center"
 	      </div>
 	      </td>
              </tr>

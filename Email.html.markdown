@@ -7,7 +7,7 @@
        <tr>
 	<img src="https://aseanyouthnet.files.wordpress.com/2018/07/circletopside.png">
          <td valign="top" class="preheaderContent">
-          <table border="0" cellpadding="0" cellspacing="0" width="600">
+          <table border="0" cellpadding="0" cellspacing="0" width="100%">
            <tr>
             <td valign="middle" width="600" align="center">
              <div mc:edit="std_preheader_links">

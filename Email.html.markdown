@@ -11,12 +11,12 @@
            <tr>
             <td valign="middle" width="600" align="center">
              <div mc:edit="std_preheader_links">
-            <span style="font-size:16px">Want to know more about our activities? <br/><a href="http://aseanyouth.net" target="_blank">OPEN WEBSITE</a></span>
+            <span style="font-size:12px">Want to know more about our activities? <br/><a href="http://aseanyouth.net" target="_blank">OPEN WEBSITE</a></span>
              </div>
 	          </td>
             <td valign="middle" width="600" align="center">
              <div mc:edit="std_preheader_links">
-              <span style="font-size:16px">Interested to join this FREE training? <br/><a href="http://gomobileagency.com/goid1/" target="_blank">REGISTER HERE</a></span>
+              <span style="font-size:12px">Interested to join this FREE training? <br/><a href="http://gomobileagency.com/goid1/" target="_blank">REGISTER HERE</a></span>
              </div>
 	          </td>
            </tr>
@@ -53,26 +53,26 @@
                 <tr>
                  <td align="center" colspan="2" valign="middle" id="social" bgcolor="#fffef4">
                   <div mc:edit="std_social">
-                   <h4 class="h4"><span style="font-size:14px"> &nbsp;<a href="https://twitter.com/ayoasean">Follow our Twitter</a> | <a href="https://www.facebook.com/pg/ASEANCommunity">Like our Facebook</a> | <a href="https://www.instagram.com/ayoasean/">Follow our Instagram</a></span>&nbsp;</h4>
+                   <h4 class="h4"><span style="font-size:12px"> &nbsp;<a href="https://twitter.com/ayoasean">Follow our Twitter</a> | <a href="https://www.facebook.com/pg/ASEANCommunity">Like our Facebook</a> | <a href="https://www.instagram.com/ayoasean/">Follow our Instagram</a></span>&nbsp;</h4>
                   </div>
                  </td>
                 </tr>
                 <tr>
                  <td align="center" valign="middle" width="900" bgcolor="#fffef4">
                   <div mc:edit="std_footer">
-		   <h4 class="h4"><span style="font-size:14px">Copyright &copy; | 2018 | A.Y.O.<br/><b>All rights reserved</b></span></h6>
+		   <h4 class="h4"><span style="font-size:12px">Copyright &copy; | 2018 | A.Y.O.<br/><b>All rights reserved</b></span></h6>
                   </div>
                  </td>
                  <td align="center" valign="middle" width="600" id="otherInformation" bgcolor="#fffef4">
                   <div mc:edit="OtherInformation">
-                   <h4 class="h4"><span style="font-size:14px">If you have any question, email to:<br/><b>info@aseanyouth.net</b></span></h6>
+                   <h4 class="h4"><span style="font-size:12px">If you have any question, email to:<br/><b>info@aseanyouth.net</b></span></h6>
                   </div>
                  </td>
                 </tr>
                 <tr>
                  <td colspan="2" align="center" valign="middle" id="utility" bgcolor="#fffef4">
                   <div mc:edit="std_utility">
-                    &nbsp;<span style="font-size:14px"><a href="www.aseanyouth.net">check our website</a></span>
+                    &nbsp;<span style="font-size:12px"><a href="www.aseanyouth.net">check our website</a></span>
                   </div>
                  </td>
                 </tr>

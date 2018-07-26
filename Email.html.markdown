@@ -2,7 +2,7 @@
 <body style="margin" border:"0" padding: 0;">
  <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="600px" id="backgroundTable">>
    <tr>
-    <td align="center" width="600px" valign="top" bgcolor="#fffef4">
+    <td align="center" width="100%" valign="top" bgcolor="#fffef4">
      <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templatePreheader">
        <tr>
 	<img src="https://aseanyouthnet.files.wordpress.com/2018/07/circletopside.png">

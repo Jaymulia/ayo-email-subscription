@@ -35,9 +35,9 @@
     <table>
     <tr>
      <td align="center" valign="top" bgcolor="#fffef4">
-      <h2 class="h4"><span style="font-size:36px">DIGITAL INDUSTRY TRAINING </h2>
+      <h2 class="h4"><span style="font-size:36px">LET'S CELEBRATE TOGETHER !!!</h2>
        <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
-	      <a href="http://gomobileagency.com/goid1/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2018/07/seminar-mobile-marketing4.jpg"</a>
+	      <a href="http://gomobileagency.com/goid1/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2018/08/safe-space-for-youth-design1.jpg"</a>
       </table>
      </td>
     </tr>

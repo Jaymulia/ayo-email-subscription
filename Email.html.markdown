@@ -16,7 +16,7 @@
 	          </td>
             <td valign="middle" width="600" align="center">
              <div mc:edit="std_preheader_links">
-              <span style="font-size:12px">Interested to join this FREE training? <br/><a href="http://gomobileagency.com/goid1/" target="_blank">REGISTER HERE</a></span>
+              <span style="font-size:12px">Interested to join this FREE training? <br/><a href="https://aseanyouth.net/events/international-you-the-day-registration-form/" target="_blank">REGISTER HERE</a></span>
              </div>
 	          </td>
            </tr>
@@ -28,7 +28,7 @@
       <tr>
        <td align="center" valign="top">
         <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateHeader">
-          <a href="http://gomobileagency.com/goid1/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2018/07/youth-empowerment-programe.png"</a>
+          <a href="https://aseanyouth.net/events/international-you-the-day-registration-form/" target"_blank"><img src=""</a>
         </table>
       </td>
       </tr>
@@ -37,7 +37,7 @@
      <td align="center" valign="top" bgcolor="#fffef4">
       <h2 class="h4"><span style="font-size:36px">LET'S CELEBRATE TOGETHER !!!</h2>
        <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
-	      <a href="http://gomobileagency.com/goid1/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2018/08/safe-space-for-youth-design1.jpg"</a>
+	      <a href="https://aseanyouth.net/events/international-you-the-day-registration-form/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2018/08/whatsapp-image-2018-08-08-at-15-33-47.jpeg"</a>
       </table>
      </td>
     </tr>

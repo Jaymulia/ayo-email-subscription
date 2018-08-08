@@ -26,11 +26,6 @@
      </table>
      <table border="0" cellpading="0" cellspacing="0" width="600" id="templateContainer">
       <tr>
-       <td align="center" valign="top">
-        <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templateHeader">
-          <a href="https://aseanyouth.net/events/international-you-the-day-registration-form/" target"_blank"><img src=""</a>
-        </table>
-      </td>
       </tr>
     <table>
     <tr>

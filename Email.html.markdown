@@ -30,7 +30,7 @@
     <table>
     <tr>
      <td align="center" valign="top" bgcolor="#FFFFFF">
-      <h2 class="h4"><span style="font-size:36px">WHAT'S UP IN ASEAN???</h2>
+      <h2 class="h4"><span style="font-size:36px">WHAT IS HAPPENING IN ASEAN???</h2>
        <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
 	 <a href="https://aseanyouth.net" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2018/12/HappyNewYear-1.png"</a>
       </table>

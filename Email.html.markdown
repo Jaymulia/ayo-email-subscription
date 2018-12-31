@@ -11,7 +11,7 @@
            <tr>
             <td valign="middle" width="600" align="center">
              <div mc:edit="std_preheader_links">
-            <span style="font-size:10px">Cannot open the email?<br/><a href="http://aseanyouth.net" target="_blank">OPEN WEBSITE</a></span>
+            <span style="font-size:10px">Click here to see on website<br/><a href="http://aseanyouth.net" target="_blank">OPEN WEBSITE</a></span>
              </div>
 	          </td>
             <td valign="middle" width="600" align="center">
@@ -73,7 +73,7 @@
                 <tr>
                  <td colspan="2" align="center" valign="middle" id="utility" bgcolor="#fffef4">
                   <div mc:edit="std_utility">
-                    &nbsp;<span style="font-size:12px"><a href="www.aseanyouth.net">check our website</a></span>
+                    &nbsp;<span style="font-size:6px"><a href="https://aseanyouth.net/unsubscribe-form/">click here to unsubscribe</a></span>
                   </div>
                  </td>
                 </tr>

@@ -35,7 +35,7 @@
 	 <a href="https://aseanyouth.net" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2018/12/HappyNewYear-1.png"</a>
       </table>
        <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
-	 <a href="https://aseanyouth.net/ayes2019philippines/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2018/12/AYESfor-EventPage-copy.png"</a>
+	 <a href="https://aseanyouth.net/ayes2019philippines/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2018/12/BannerNewAYES.png"</a>
       </table>
       <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
 	 <a href="https://aseanyouth.net/yestoasean/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2018/12/Size828x315-For-Event-1.png"</a>

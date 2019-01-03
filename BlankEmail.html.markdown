@@ -16,7 +16,7 @@
 	          </td>
             <td valign="middle" width="600" align="center">
              <div mc:edit="std_preheader_links">
-              <span style="font-size:12px">Check our events<br/><a href="https://aseanyouth.net/events/" target="_blank">CLICK HERE</a></span>
+              <span style="font-size:10px">Check our events<br/><a href="https://aseanyouth.net/events/" target="_blank">CLICK HERE</a></span>
              </div>
 	          </td>
            </tr>

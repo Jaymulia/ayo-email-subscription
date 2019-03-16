@@ -9,14 +9,9 @@
          <td valign="top" class="preheaderContent">
           <table border="0" cellpadding="0" cellspacing="0" width="100%">
            <tr>
-            <td valign="middle" width="600" align="center">
+            <td valign="middle" width="600" align="Left">
              <div mc:edit="std_preheader_links">
-            <span style="font-size:12px">Click here to see on website<br/><a href="http://aseanyouth.net" target="_blank">OPEN WEBSITE</a></span>
-             </div>
-	          </td>
-            <td valign="middle" width="600" align="center">
-             <div mc:edit="std_preheader_links">
-              <span style="font-size:12px">Check our events<br/><a href="https://aseanyouth.net/events/" target="_blank">CLICK HERE</a></span>
+            <span style="font-size:12px">Do not see the image? <br/><a href="http://aseanyouth.net" target="_blank">Click here</a></span>
              </div>
 	          </td>
            </tr>
@@ -32,13 +27,15 @@
      <td align="center" valign="top" bgcolor="#FFFFFF">
       <h2 class="h4"><span style="font-size:36px">WHAT IS HAPPENING IN ASEAN???</h2>
        <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
-	 <a href="https://aseanyouth.net" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2018/12/HappyNewYear-1.png"</a>
-      </table>
-       <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
-	 <a href="https://aseanyouth.net/ayes2019philippines/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2018/12/BannerNewAYES.png"</a>
+	 <a href="https://aseanyouth.net/womenpreneurs" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/03/womenpreneursforemailblast.jpg"</a>
+      </table>      
+       <table border="0" cellpadding="5" cellspacing="0" width="300" id="templateBody">
+	 <a href="https://aseanyouth.net/arise-conference/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/03/ariseprogram-1.jpg"</a>
       </table>
       <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
-	 <a href="https://aseanyouth.net/yestoasean/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2018/12/Size828x315-For-Event-1.png"</a>
+	 <a href="https://aseanyouth.net/ihrmun2019/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/03/ihrmun-1.jpg"</a>
+      </table>															 <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
+	 <a href="https://aseanyouth.net/responsible-business-forum/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/03/rbf.jpg"</a>
       </table>
      </td>
     </tr>

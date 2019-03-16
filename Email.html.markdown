@@ -9,9 +9,9 @@
          <td valign="top" class="preheaderContent">
           <table border="0" cellpadding="0" cellspacing="0" width="100%">
            <tr>
-            <td valign="middle" width="600" align="Left">
+            <td valign="right" width="600" align="right">
              <div mc:edit="std_preheader_links">
-            <span style="font-size:18px">Do not see anything? <br/><a href="http://aseanyouth.net" target="_blank">Click here</a></span>
+            <span style="font-size:18px">Do not see anything?<a href="http://aseanyouth.net" target="_blank">Click here</a></span>
              </div>
 	          </td>
            </tr>
@@ -26,7 +26,7 @@
     <tr>
      <td align="center" valign="top" bgcolor="#FFFFFF">
       <h2 class="h4"><span style="font-size:36px">WHAT IS HAPPENING IN ASEAN???</h2>
-       <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
+       <table border="0" cellpadding="3" cellspacing="0" width="600" id="templateBody">
 	 <a href="https://aseanyouth.net/womenpreneurs" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/03/womenpreneursforemailblast.jpg"</a>
       </table>      
        <table border="0" cellpadding="5" cellspacing="0" width="300" id="templateBody">

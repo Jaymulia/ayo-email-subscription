@@ -11,7 +11,7 @@
            <tr>
             <td valign="middle" width="600" align="Left">
              <div mc:edit="std_preheader_links">
-            <span style="font-size:12px">Do not see the image? <br/><a href="http://aseanyouth.net" target="_blank">Click here</a></span>
+            <span style="font-size:14px">Do not see the image? <br/><a href="http://aseanyouth.net" target="_blank">Click here</a></span>
              </div>
 	          </td>
            </tr>
@@ -30,12 +30,12 @@
 	 <a href="https://aseanyouth.net/womenpreneurs" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/03/womenpreneursforemailblast.jpg"</a>
       </table>      
        <table border="0" cellpadding="5" cellspacing="0" width="300" id="templateBody">
-	 <a href="https://aseanyouth.net/arise-conference/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/03/ariseprogram-1.jpg"</a>
+	 <a href="https://aseanyouth.net/arise-conference/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/03/ariseprogram-2.jpg"</a>
       </table>
       <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
-	 <a href="https://aseanyouth.net/ihrmun2019/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/03/ihrmun-1.jpg"</a>
+	 <a href="https://aseanyouth.net/ihrmun2019/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/03/ihrmun-2.jpg"</a>
       </table>															 <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
-	 <a href="https://aseanyouth.net/responsible-business-forum/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/03/rbf.jpg"</a>
+	 <a href="https://aseanyouth.net/responsible-business-forum/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/03/rbf-1.jpg"</a>
       </table>
      </td>
     </tr>

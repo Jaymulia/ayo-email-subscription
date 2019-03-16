@@ -9,7 +9,7 @@
          <td valign="top" class="preheaderContent">
           <table border="0" cellpadding="0" cellspacing="0" width="100%">
            <tr>
-            <td valign="right" width="600" align="right">
+            <td valign="right" width="700" align="right">
              <div mc:edit="std_preheader_links">
             <span style="font-size:18px">Do not see anything?<a href="http://aseanyouth.net" target="_blank">Click here</a></span>
              </div>

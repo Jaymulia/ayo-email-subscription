@@ -25,7 +25,7 @@
     <table>
     <tr>
      <td align="center" valign="top" bgcolor="#FFFFFF">
-      <h2 class="h4"><span style="font-size:36px">WHAT IS HAPPENING IN ASEAN???</h2>
+      <h2 class="h4"><br><span style="font-size:36px">WHAT IS HAPPENING IN ASEAN???</h2>
        <table border="0" cellpadding="3" cellspacing="0" width="600" id="templateBody">
 	 <a href="https://aseanyouth.net/womenpreneurs" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/03/womenpreneursforemailblast-2.jpg"</a>
       </table>      

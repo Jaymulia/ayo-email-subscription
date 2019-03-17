@@ -11,7 +11,7 @@
            <tr>
             <td valign="right" width="700" align="right">
              <div mc:edit="std_preheader_links">
-            <span style="font-size:18px">Do not see anything?<a href="http://aseanyouth.net" target="_blank">Click here</a></span>
+            <span style="font-size:20px">Do not see anything?<a href="http://aseanyouth.net" target="_blank">Click here</a></span>
              </div>
 	          </td>
            </tr>
@@ -27,7 +27,7 @@
      <td align="center" valign="top" bgcolor="#FFFFFF">
       <h2 class="h4"><span style="font-size:36px">WHAT IS HAPPENING IN ASEAN???</h2>
        <table border="0" cellpadding="3" cellspacing="0" width="600" id="templateBody">
-	 <a href="https://aseanyouth.net/womenpreneurs" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/03/womenpreneursforemailblast-1.jpg"</a>
+	 <a href="https://aseanyouth.net/womenpreneurs" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/03/womenpreneursforemailblast-2.jpg"</a>
       </table>      
        <table border="0" cellpadding="5" cellspacing="0" width="300" id="templateBody">
 	 <a href="https://aseanyouth.net/arise-conference/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/03/ariseprogram-2.jpg"</a>

@@ -1,6 +1,5 @@
-<html>
 <body style="margin" border:"0" padding: 0;">
- <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="600px" id="backgroundTable">>
+ <table align="center" border="0" cellpadding="0" cellspacing="0" height="100%" width="600px" id="backgroundTable">
    <tr>
     <td align="center" width="100%" valign="top" bgcolor="#FFFFFF">
      <table border="0" cellpadding="0" cellspacing="0" width="100%" id="templatePreheader">

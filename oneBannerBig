@@ -47,3 +47,28 @@
                  </td>
                  <td align="center" valign="middle" width="600" id="otherInformation" bgcolor="#f1f1f2">
                   <div mc:edit="OtherInformation">
+		  <h4 class="h4"><span style="font-size:14px">If you have any question, email to:<br/><b>info@aseanyouth.net</b></span></h6>
+                  </div>
+                 </td>
+                </tr>
+                <tr>
+                 <td colspan="2" align="center" valign="middle" id="utility" bgcolor="#f1f1f2">
+                  <div mc:edit="std_utility">
+                    &nbsp;<span style="font-size:12px"><a href="https://aseanyouth.net/unsubscribe-form/">click here to unsubscribe</a></span>
+                  </div>
+                 </td>
+                </tr>
+               </table>  
+              </td>
+             </tr>
+            </table>
+           </td>
+          </tr>
+         </table>
+        <br/>
+       </td>
+      </tr>
+     </table><img src="https://aseanyouthnet.files.wordpress.com/2018/12/circletopside.png">
+    </body>
+</html>
+  

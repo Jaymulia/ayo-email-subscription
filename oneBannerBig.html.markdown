@@ -24,6 +24,22 @@
       </tr>
     <table>
     <tr>
+     <td align="center" valign="top" bgcolor="#FFFFFF">
+      <h2 class="h4"><br><span style="font-size:36px"></h2>
+       <table border="0" cellpadding="3" cellspacing="0" width="600" id="templateBody">
+	 <a href="https://aseanyouth.net/events" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/05/banne-email-first.jpg"</a>
+      </table>      
+       <table border="0" cellpadding="5" cellspacing="0" width="300" id="templateBody">
+	 <a href="https://aseanyouth.net/events/aye2019/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/05/aye2019.jpg"</a>
+      </table>
+      <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
+	 <a href="https://aseanyouth.net/2018/02/11/impactlives/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/05/impactlive.jpg"</a>
+      </table>															 <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
+	 <a href="https://www.surveymonkey.com/r/P6XTD7X" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/05/whitepaperproject-1.jpg"</a>
+      </table>
+     </td>
+    </tr>
+      <tr>
        <td align="center" valign="top">
          <table border="0" cellpading="0" cellspacing="0" width="900" id="templateFooter">
           <tr>
@@ -47,3 +63,28 @@
                  </td>
                  <td align="center" valign="middle" width="600" id="otherInformation" bgcolor="#f1f1f2">
                   <div mc:edit="OtherInformation">
+                   <h4 class="h4"><span style="font-size:14px">If you have any question, email to:<br/><b>info@aseanyouth.net</b></span></h6>
+                  </div>
+                 </td>
+                </tr>
+                <tr>
+                 <td colspan="2" align="center" valign="middle" id="utility" bgcolor="#f1f1f2">
+                  <div mc:edit="std_utility">
+                    &nbsp;<span style="font-size:12px"><a href="https://aseanyouth.net/unsubscribe-form/">click here to unsubscribe</a></span>
+                  </div>
+                 </td>
+                </tr>
+               </table>  
+              </td>
+             </tr>
+            </table>
+           </td>
+          </tr>
+         </table>
+        <br/>
+       </td>
+      </tr>
+     </table><img src="https://aseanyouthnet.files.wordpress.com/2018/12/circletopside.png">
+    </body>
+</html>
+  

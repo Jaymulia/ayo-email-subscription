@@ -27,15 +27,10 @@
      <td align="center" valign="top" bgcolor="#FFFFFF">
       <h2 class="h4"><br><span style="font-size:36px"></h2>
        <table border="0" cellpadding="3" cellspacing="0" width="600" id="templateBody">
-	 <a href="https://aseanyouth.net/events" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/05/banne-email-first.jpg"</a>
+	 <a href="https://aseanyouth.net/events/aye2019/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/06/aye2019.jpg"</a>
       </table>      
-       <table border="0" cellpadding="5" cellspacing="0" width="300" id="templateBody">
-	 <a href="https://aseanyouth.net/events/aye2019/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/05/aye2019.jpg"</a>
-      </table>
       <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
-	 <a href="https://aseanyouth.net/2018/02/11/impactlives/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/05/impactlive.jpg"</a>
-      </table>															 <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
-	 <a href="https://www.surveymonkey.com/r/P6XTD7X" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/05/whitepaperproject-1.jpg"</a>
+	 <a href="https://aseanyouth.net/internship-survey/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/06/intershipbanneremail.jpg"</a>
       </table>
      </td>
     </tr>

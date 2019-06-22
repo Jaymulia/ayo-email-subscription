@@ -28,9 +28,18 @@
       <h2 class="h4"><br><span style="font-size:36px"></h2>
        <table border="0" cellpadding="3" cellspacing="0" width="600" id="templateBody">
 	 <a href="https://aseanyouth.net/events/aye2019/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/06/aye2019.jpg"</a>
-      </table>      
+      </table>
+	<table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
+	 <a target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2018/12/circletopside.png"</a>
+      </table>
       <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
-	 <a href="https://aseanyouth.net/internship-survey/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/06/intershipbanneremail.jpg"</a>
+	 <a href="https://aseanyouth.net/internship-survey/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/06/intershipbanneremail-1.jpg"</a>
+      </table>
+      <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
+	 <a target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2018/12/circletopside.png"</a>
+      </table>
+      <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
+	 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdj5PbvwdHcAtcMp__93ZG2B-snjOHANskV9MOxhS1apji7NQ/viewform" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/06/weekendfunpro.jpg"</a>
       </table>
      </td>
     </tr>

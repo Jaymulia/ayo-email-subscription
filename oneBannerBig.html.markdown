@@ -29,14 +29,8 @@
        <table border="0" cellpadding="3" cellspacing="0" width="600" id="templateBody">
 	 <a target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/09/ayc-for-email-2-1.jpg"</a>
       </table>
-	<table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
-	 <a target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2018/12/circletopside.png"</a>
-      </table>
       <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
 	 <a href="https://aseanyouth.net/ayc2019/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/09/applyhere.jpg"</a>
-      </table>
-      <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
-	 <a target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2018/12/circletopside.png"</a>
       </table>
      </td>
     </tr>

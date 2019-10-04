@@ -27,7 +27,7 @@
      <td align="center" valign="top" bgcolor="#FFFFFF">
       <h2 class="h4"><br><span style="font-size:36px"></h2>
        <table border="0" cellpadding="3" cellspacing="0" width="600" id="templateBody">
-	 <a target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/09/ayc-for-email-2-1.jpg"</a>
+	 <a target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/10/87d3b7a1-7eb8-407f-873a-402dda0af923.jpeg"</a>
       </table>
       <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
 	 <a href="https://aseanyouth.net/ayc2019/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2019/09/applyhere.jpg"</a>
@@ -58,7 +58,7 @@
                  </td>
                  <td align="center" valign="middle" width="600" id="otherInformation" bgcolor="#f1f1f2">
                   <div mc:edit="OtherInformation">
-                   <h4 class="h4"><span style="font-size:14px">If you have any question, email to:<br/><b>info@aseanyouth.net</b></span></h6>
+                   <h4 class="h4"><span style="font-size:14px">If you have any question, email to:<br/><b>ask@aseanyouth.net</b></span></h6>
                   </div>
                  </td>
                 </tr>

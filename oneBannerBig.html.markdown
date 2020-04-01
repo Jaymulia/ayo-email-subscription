@@ -68,7 +68,7 @@
                 <tr>
                  <td colspan="2" align="center" valign="middle" id="utility" bgcolor="#f1f1f2">
                   <div mc:edit="std_utility">
-                    &nbsp;<span style="font-size:12px"><a href="https://aseanyouth.net/unsubscribe-form/">click here to unsubscribe</a></span>
+					    &nbsp;<span style="font-size:12px"><a>You received this email because you subscribed us. </a><a href="https://aseanyouth.net/unsubscribe-form/">click here to unsubscribe</a></span>
                   </div>
                  </td>
                 </tr>

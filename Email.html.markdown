@@ -63,7 +63,7 @@
                  </td>
                  <td align="center" valign="middle" width="600" id="otherInformation" bgcolor="#f1f1f2">
                   <div mc:edit="OtherInformation">
-                   <h4 class="h4"><span style="font-size:14px">If you have any question, email to:<br/><b>info@aseanyouth.net</b></span></h6>
+                   <h4 class="h4"><span style="font-size:14px">If you have any question, email to:<br/><b>ask@aseanyouth.net</b></span></h6>
                   </div>
                  </td>
                 </tr>

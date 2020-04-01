@@ -27,10 +27,13 @@
      <td align="center" valign="top" bgcolor="#FFFFFF">
       <h2 class="h4"><br><span style="font-size:36px"></h2>
        <table border="0" cellpadding="3" cellspacing="0" width="600" id="templateBody">
-	 <a target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2020/01/ayotalent.jpg"</a>
+	 <a><img src="https://aseanyouthnet.files.wordpress.com/2020/04/covid-19.png"</a>
       </table>
       <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
-	 <a href="https://aseanyouth.net/ayotalent" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2020/01/register-here.jpg"</a>
+	 <a href="https://aseanyouth.net/aseangigfund/" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2020/04/clickherenew.png"</a>
+      </table>
+	<table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
+	 <a href="http://www.aseandse.org/register" target"_blank"><img src="https://aseanyouthnet.files.wordpress.com/2020/04/adse.png"</a>
       </table>
      </td>
     </tr>

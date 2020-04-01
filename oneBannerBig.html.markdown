@@ -26,7 +26,7 @@
     <tr>
      <td align="center" valign="top" bgcolor="#FFFFFF">
       <h2 class="h4"><br><span style="font-size:36px"></h2>
-       <table border="0" cellpadding="5" cellspacing="0" width="50%" id="templateBody">
+       <table border="0" cellpadding="5" cellspacing="0" width="20%" id="templateBody">
 	 <a><img src="https://aseanyouthnet.files.wordpress.com/2020/04/covid-19.png"</a>
       </table>
       <table border="0" cellpadding="5" cellspacing="0" width="600" id="templateBody">
